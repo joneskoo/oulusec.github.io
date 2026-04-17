@@ -65,10 +65,10 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 **Tue 3.12.2019 17:00**
 
 **Tue 5.11.2019 17:00 Meetup hosted by Solita:**
-  * DIY Lock picks by Atte Kettunen
-  * AWS/Cloud security stuff by Juho Myllylahti
+  * [DIY Lock](./presentations/2019-11-05-DIY_Lock_picks.pdf) picks by Atte Kettunen
+  * [AWS/Cloud security stuff](./presentations/2019-11-05-juhomy-oulusec.pdf) by Juho Myllylahti
   * Wordsnack reversing by Jaakko Rajakallio
-  * Thanks to everyone who attended! 
+  * Thanks to everyone who attended!
 
 **Tue 1.10.2019 ([Hack After Dark](http://tarlab.fi/HackAfterDark/) afterski) @ Pub Rooster**
 
